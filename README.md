@@ -10,6 +10,9 @@ This portfolio website highlights:
 - **YouTube Channel:** Focused on music distribution, aimed at empowering independent artists.
 - **Projects:** A collection of my work demonstrating my expertise and dedication.
 
+- <img width="934" alt="Myportfolio_website" src="https://github.com/user-attachments/assets/76173543-10a0-4922-8dbc-193c84f58bf6">
+
+
 ## Features
 
 - Responsive design for optimal viewing on various devices.
