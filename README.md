@@ -18,4 +18,9 @@ This portfolio website highlights:
 - Responsive design for optimal viewing on various devices.
 - Easy navigation to explore my projects and background.
 
-  Thank you
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
+
+
+Thank you
